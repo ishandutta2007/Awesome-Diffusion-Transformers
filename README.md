@@ -1,11 +1,24 @@
-# Awesome-Diffusion-Transformers
-## Diffusion Transformers (DiT): Variants, Types, & Applications
+# 🚀 Awesome Diffusion Transformers (DiT)
+
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Diffusion Transformers (DiT) Banner" width="100%">
+</p>
+
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Diffusion-Transformers/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Diffusion-Transformers?style=flat-square&logo=github" alt="Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Diffusion-Transformers/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Diffusion-Transformers?style=flat-square&logo=github" alt="Forks"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Diffusion-Transformers/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Diffusion-Transformers?style=flat-square" alt="License"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
+
+## 📖 Introduction to Diffusion Transformers (DiT)
 
 Diffusion Transformers (DiT) represent a paradigm shift in generative AI, substituting the traditional convolutional U-Net backbone of standard Latent Diffusion Models with a highly scalable Vision Transformer (ViT) architecture. By treating image patches or data frames as native text-like sequence tokens, DiT benefits from global self-attention awareness, unified multimodal handling, and predictable power-law scaling properties.
 
 ---
 
-## 1. Conditioning & Block Architecture Variants
+## 🎨 1. Conditioning & Block Architecture Variants
 
 These variants define how time-step noise schedules ($t$), class labels ($c$), or descriptive text prompts are injected into the transformer layer blocks to steer generation.
 
@@ -17,7 +30,7 @@ These variants define how time-step noise schedules ($t$), class labels ($c$), o
 
 ---
 
-## 2. Temporal & Multimodal Domain Types
+## ⏱️ 2. Temporal & Multimodal Domain Types
 
 As a highly flexible encoder-decoder framework, the core patchification concept has been scaled to handle physical and architectural domains outside of flat 2D grids.
 
@@ -29,7 +42,7 @@ As a highly flexible encoder-decoder framework, the core patchification concept 
 
 ---
 
-## 3. Advanced Theoretical & Optimization Variants
+## 🧠 3. Advanced Theoretical & Optimization Variants
 
 These variations alter the underlying sampling trajectory or mathematics to boost quality or decrease the heavy inference costs typical of DiT models.
 
@@ -40,7 +53,7 @@ These variations alter the underlying sampling trajectory or mathematics to boos
 
 ---
 
-## 4. Production Applications
+## 🏭 4. Production Applications
 
 | Application | Details & Use Case | Year First Used | First Paper Link |
 | :--- | :--- | :---: | :--- |
