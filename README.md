@@ -60,3 +60,17 @@ These variations alter the underlying sampling trajectory or mathematics to boos
 | [**High-Fidelity Text-to-Image Synthesis**](details/high_fidelity_text_to_image_synthesis.md) | **Application:** Powers consumer systems (like Stable Diffusion 3 / 3.5 Large) to generate dense, compositionally accurate images and cleanly render textual layout lettering on demand. | 2024 | [Scaling Rectified Flow Transformers for High-Resolution Image Synthesis](https://arxiv.org/abs/2403.03206) |
 | [**Structural Material & De Novo Drug Discovery**](details/structural_material_de_novo_drug_discovery.md) | **Application:** Applied to all-atom molecular structures. Reinterprets amino acid sequences or atom geometric coordinates as sequential patch tokens, predicting physical coordinate refinements to synthesize entirely novel proteins. | 2024 | [Accurate structure prediction of biomolecular interactions with AlphaFold 3](https://doi.org/10.1038/s41586-024-07487-w) |
 | [**Controllable Media Editing & Inpainting**](details/controllable_media_editing_inpainting.md) | **Application:** Seamlessly maps bounding box dimensions or localized pixel coordinates into specific sequence tokens, executing pinpoint image modifications or structural background extensions while keeping unedited frames consistent. | 2023 | [GLIGEN: Open-Set Grounded Text-to-Image Generation](https://arxiv.org/abs/2301.07093) |
+
+---
+
+## 📈 Star History
+
+<div align="center">
+<a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-Diffusion-Transformers&type=date&legend=bottom-right">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Diffusion-Transformers&type=date&theme=dark&legend=bottom-right" />
+  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Diffusion-Transformers&type=date&legend=bottom-right" />
+  <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Diffusion-Transformers&type=date&legend=bottom-right" />
+</picture>
+</a>
+</div>
